@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Pulsewave",
+    "slug": "pulsewave",
+    "version": "0.1.0",
+    "scheme": "pulsewave",
+    "platforms": ["ios", "android"],
+    "experiments": { "typedRoutes": true }
+  }
+}
